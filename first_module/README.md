@@ -8,31 +8,31 @@ Refs to the task solutions:
 
 - Inheritance
 
-[Task#1](https://stepik.org/submissions/225447/1129914993?unit=31457)
-[Task#2](https://stepik.org/submissions/225465/1129925029?unit=31457)
-[Task#3](https://stepik.org/submissions/225475/1130004440?unit=31457)
+[Task#1](https://stepik.org/lesson/53365/step/5?discussion=8993437&thread=solutions&unit=31457)
+[Task#2](https://stepik.org/lesson/53365/step/7?discussion=8993444&thread=solutions&unit=31457)
+[Task#3](https://stepik.org/lesson/53365/step/11?discussion=8993454&thread=solutions&unit=31457)
 
 - Type Conversion
 
-[Task#1](https://stepik.org/submissions/226062/1130177664?unit=31456)
-[Task#2](https://stepik.org/submissions/226064/1130199009?unit=31456)
+[Task#1](https://stepik.org/lesson/53366/step/4?discussion=8993462&thread=solutions&unit=31456)
+[Task#2](https://stepik.org/lesson/53366/step/6?discussion=8993467&thread=solutions&unit=31456)
 
 - Type Information
 
-[Task#1](https://stepik.org/submissions/226070/1130265566?unit=31461)
-[Task#2](https://stepik.org/submissions/226075/1130317475?unit=31461)
+[Task#1](https://stepik.org/lesson/53367/step/4?discussion=8993472&thread=solutions&unit=31461)
+[Task#2](https://stepik.org/lesson/53367/step/7?discussion=8993478&thread=solutions&unit=31461)
 
 - Function Pointers
 
-[Task#1](https://stepik.org/submissions/226076/1130382776?unit=31462)
-[Task#2](https://stepik.org/submissions/226079/1130594438?unit=31462)
+[Task#1](https://stepik.org/lesson/53368/step/5?discussion=8993480&thread=solutions&unit=31462)
+[Task#2](https://stepik.org/lesson/53368/step/7?discussion=8993484&thread=solutions&unit=31462)
 
 - Method Pointers
 
-[Task#1](https://stepik.org/submissions/228866/1131053725?unit=31459)
-[Task#2](https://stepik.org/submissions/228867/1131059977?unit=31459)
-[Task#3](https://stepik.org/submissions/228872/1131096429?unit=31459)
+[Task#1](https://stepik.org/lesson/53369/step/3?discussion=8993490&thread=solutions&unit=31459)
+[Task#2](https://stepik.org/lesson/53369/step/5?discussion=8993494&thread=solutions&unit=31459)
+[Task#3](https://stepik.org/lesson/53369/step/10?discussion=8993497&thread=solutions&unit=31459)
 
 - Namespaces
 
-[Task](https://stepik.org/submissions/228878/1131276877?auth=login&unit=31458)
+[Task](https://stepik.org/lesson/53370/step/12?discussion=8992856&thread=solutions&unit=31458)
